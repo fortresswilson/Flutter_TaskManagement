@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979215006620",
+    "project_id": "task-manager-47bef",
+    "storage_bucket": "task-manager-47bef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979215006620:android:79e1b4b462aaa443ad6659",
+        "android_client_info": {
+          "package_name": "com.example.task_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQeEgeRqAra2jhVv0-dPRY1VBHDRKXljY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
